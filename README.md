@@ -330,6 +330,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Chaitin IP Intelligence](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool)** - Search for IP addresses using Chaitin's IP Intelligence API.
 - **[Chart](https://github.com/KamranBiglari/mcp-server-chart)** - This server offers a wide variety of chart types with comprehensive Zod schema validation for type-safe chart configuration.
 - **[ChuckNorris](https://github.com/pollinations/chucknorris-mcp)** - A specialized MCP gateway for LLM enhancement prompts and jailbreaks with dynamic schema adaptation. Provides prompts for different LLMs using an enum-based approach.
+- **[CiteGuard MCP](https://github.com/Lukecele/citeguard-mcp)** - Verify scientific citations (DOIs, PubMed PMIDs, arXiv IDs), detect LLM chimera hallucinations and retracted papers, and generate verified BibTeX across Crossref, DataCite, PubMed, OpenAlex, and arXiv.
 - **[clj-kondo-MCP](https://github.com/Bigsy/clj-kondo-MCP)** - Clojure linter
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
 - **[clojure-mcp](https://github.com/bhauman/clojure-mcp)** - Clojure development tools, direct access to the running program via REPL.
